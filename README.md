@@ -4,7 +4,7 @@ A provider-aware subagent manager for [Hermes Agent](https://github.com/NousRese
 
 Worker Manager adds a compact native model picker, provider/model discovery, safe handoff controls, selected-profile validation, live worker activity, token usage, and persisted worker history. The settings surface and monitor are separate Hermes Desktop panes.
 
-> Status: public source repository. No open-source license has been granted yet; see [License](#license).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Features
 
@@ -187,7 +187,7 @@ The public name is **Worker Manager**. Internal `smit-*` IDs are intentionally r
 
 ## License
 
-No license file is currently included. Publishing source code does not grant permission to copy, modify, or redistribute it beyond rights provided by applicable law. The repository owner can add an explicit open-source license later.
+Licensed under the [MIT License](LICENSE). Copyright © 2026 duong141001.
 
 ## Upstream
 
