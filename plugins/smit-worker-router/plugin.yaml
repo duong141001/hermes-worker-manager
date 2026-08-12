@@ -1,0 +1,7 @@
+name: smit-worker-router
+version: "0.1.0"
+description: "Worker Manager for dispatching subagents; external sanitized routes require an enabled handoff, exact marker prefix, and sanitized context."
+agent_tools:
+  - run_worker
+  - run_smit_worker
+api: plugin_api.py

@@ -1,0 +1,7 @@
+name: smit-opaque-handoff
+version: "0.1.0"
+description: "Local zero-token strict gate and structured Russian opaque handoff builder for SMIT children."
+agent_tools:
+  - prepare_smit_handoff
+hooks:
+  - pre_tool_call

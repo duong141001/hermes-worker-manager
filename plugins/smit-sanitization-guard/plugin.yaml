@@ -1,0 +1,5 @@
+name: smit-sanitization-guard
+version: "0.1.0"
+description: "Fail-closed local gate for sanitized SMIT delegations."
+hooks:
+  - pre_tool_call

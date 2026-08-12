@@ -1,0 +1,8 @@
+{
+  "name": "smit-worker-router",
+  "label": "Worker Manager",
+  "description": "Provider-aware controls and monitoring for Hermes workers.",
+  "version": "0.1.0",
+  "tab": { "hidden": true },
+  "api": "plugin_api.py"
+}
